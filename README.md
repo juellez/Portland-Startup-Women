@@ -1,10 +1,8 @@
-Policies
+Portland Startup Women Resources
 ========
 
-Mirror of policies for the Stumptown Syndicate. 
+* [Get Access](https://pdxstartupwomen.typeform.com/to/lcFQLv): Request access to Slack chat and roundtable meetings.
+* [Citizen Code of Conduct](citizen_code_of_conduct.md): Code of Conduct for Portland Startup Women chat group and meetings. 
+* [Meetups](http://www.meetup.com/XFounders-women-entrepreneurs/): Meetup events.
 
-* [Citizen Code of Conduct](citizen_code_of_conduct.md): Templated Code of Conduct for use groups, projects, and events.
-* [Syndicate Code of Conduct](syndicate_code_of_conduct.md): Stumptown Syndicate specific Code of Conduct.
-* [Reporting Guidelines](reporting_guidelines.md): Reporting guidelines for the Stupmtown Syndicate Code of Conduct.
-
-Questions or comments? Get in touch with us board@stumptownsyndicate.org.
+Questions or comments? Get in touch with us portlandstartupwomen@innovatepdx.com.
